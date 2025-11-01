@@ -1,2 +1,11 @@
-# bsl-profile
-Sitio personal de Benjamín Santander — desarrollador full stack (intermedio). HTML/CSS/JS + Bootstrap 5 + EmailJS para contacto.
+# Benjamín Santander — sitio personal
+
+Sitio estático construido con HTML, Bootstrap 5 y EmailJS para el formulario de contacto.
+
+## Tecnologías
+- HTML, CSS, JS
+- Bootstrap 5
+- EmailJS
+
+## Contacto
+benjamin.santander.lopez.2016@gmail.com
